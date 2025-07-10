@@ -8,22 +8,16 @@ function App() {
       <header className="container mx-auto px-6 py-8">
         <div className="flex items-center space-x-3">
           <Zap className="w-8 h-8 text-red-500" />
-          <h1 className="text-2xl font-bold">F1 Haptic Experience</h1>
+          <h1 className="text-2xl font-bold">F1 Trailer Haptic Experience</h1>
         </div>
       </header>
 
       {/* Hero Section */}
       <main className="container mx-auto px-6 py-16">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-5xl md:text-7xl font-black mb-6 bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 bg-clip-text text-transparent">
-            Feel the Race
-          </h2>
-          <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed">
-            Experience Formula 1 like never before with immersive haptic feedback
-          </p>
           <p className="text-lg text-gray-400 mb-12 max-w-2xl mx-auto">
             We've created an enhanced Android app that delivers realistic haptic sensations 
-            synchronized with F1 trailer content, bringing you closer to the action.
+            synchronized with F1 trailer, bringing you closer to the action.
           </p>
 
           {/* Download Button */}
